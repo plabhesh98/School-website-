@@ -1,0 +1,69 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+#campus life{
+    position: absolute;
+    overflow: hidden;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    height: 800px;
+    opacity: 0.83;
+    background:linear-gradient(#e6fcfc 0%, #02fa0f 100%); 
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+#achivements{
+ position: absolute;
+    overflow: hidden;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    height: 800px;
+    opacity: 0.83;
+    background:linear-gradient(#e6fcfc 0%, #02fa0f 100%); 
+    display: table;
+    width: 100%;
+    height: 100%;   
+}
+#Whats New{
+    position: absolute;
+    overflow: hidden;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    height: 800px;
+    opacity: 0.83;
+    background:linear-gradient(#e6fcfc 0%, #02fa0f 100%); 
+    display: table;
+    width: 100%;
+    height: 100%;   
+}
+#contact us{
+     position: absolute;
+    overflow: hidden;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    height: 800px;
+    opacity: 0.83;
+    background:linear-gradient(#e6fcfc 0%, #02fa0f 100%); 
+    display: table;
+    width: 100%;
+    height: 100%;   
+}
+#maps-iframe{
+    height: 200px;
+    width: 200px;
+}
+
+
+
+
+   
